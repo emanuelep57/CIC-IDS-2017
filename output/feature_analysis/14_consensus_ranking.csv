@@ -1,0 +1,47 @@
+Feature,Corr_Rank,MI_Rank,ANOVA_Rank,RF_Rank,Average_Rank
+Fwd IAT Std,2.0,14.0,1.0,5.0,5.5
+Flow IAT Max,4.0,11.0,3.0,10.0,7.0
+Packet Length Mean,14.0,1.0,6.0,8.0,7.25
+Bwd Packet Length Max,13.0,4.0,2.0,11.0,7.5
+Packet Length Variance,10.0,2.0,5.0,15.0,8.0
+Max Packet Length,12.0,5.0,4.0,17.0,9.5
+Flow Duration,16.0,13.0,9.0,12.0,12.5
+Init_Win_bytes_backward,21.0,7.0,20.0,3.0,12.75
+Flow IAT Std,5.0,19.0,7.0,23.0,13.5
+ByteRatio,1.0,3.0,41.0,9.0,13.5
+Flow IAT Mean,6.0,20.0,10.0,19.0,13.75
+Total Length of Fwd Packets,39.0,6.0,16.0,1.0,15.5
+Bwd Packets/s,3.0,15.0,31.0,24.0,18.25
+Fwd Packets/s,9.0,18.0,33.0,14.0,18.5
+Flow Packets/s,7.0,21.0,30.0,18.0,19.0
+PacketRatio,28.0,25.0,19.0,6.0,19.5
+Fwd Packet Length Max,44.0,8.0,27.0,4.0,20.75
+Init_Win_bytes_forward,33.0,9.0,22.0,20.0,21.0
+Fwd Packet Length Mean,42.0,10.0,26.0,7.0,21.25
+Bwd IAT Std,19.0,29.0,12.0,26.0,21.5
+Bwd Packet Length Min,8.0,34.0,15.0,34.0,22.75
+Bwd IAT Max,29.0,16.0,14.0,32.0,22.75
+Bwd Header Length,31.0,12.0,46.0,2.0,22.75
+Min Packet Length,17.0,32.0,13.0,35.0,24.25
+Fwd Header Length,22.0,17.0,45.0,13.0,24.25
+Bwd IAT Total,32.0,23.0,21.0,21.0,24.25
+Flow Bytes/s,20.0,22.0,34.0,25.0,25.25
+ACK Flag Count,15.0,39.0,11.0,37.0,25.5
+FIN Flag Count,11.0,41.0,8.0,43.0,25.75
+Fwd Packet Length Min,18.0,35.0,23.0,36.0,28.0
+Bwd IAT Mean,30.0,24.0,25.0,33.0,28.0
+PSH Flag Count,36.0,38.0,18.0,31.0,30.75
+Active Min,23.0,27.0,37.0,38.0,31.25
+Bwd IAT Min,41.0,30.0,32.0,22.0,31.25
+Total Fwd Packets,25.0,31.0,42.0,29.0,31.75
+Active Mean,24.0,26.0,39.0,40.0,32.25
+Active Max,26.0,28.0,40.0,41.0,33.75
+Fwd IAT Min,38.0,37.0,35.0,27.0,34.25
+act_data_pkt_fwd,46.0,33.0,43.0,16.0,34.5
+Down/Up Ratio,34.0,36.0,28.0,42.0,35.0
+Idle Std,35.0,43.0,17.0,46.0,35.25
+Fwd PSH Flags,40.0,45.0,24.0,39.0,37.0
+Flow IAT Min,45.0,40.0,36.0,28.0,37.25
+Active Std,27.0,44.0,38.0,44.0,38.25
+URG Flag Count,37.0,46.0,29.0,45.0,39.25
+min_seg_size_forward,43.0,42.0,44.0,30.0,39.75

@@ -1,0 +1,25 @@
+{
+  "multicollinearity_candidates": [
+    "Total Backward Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Std",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Fwd IAT Total",
+    "Fwd IAT Mean",
+    "Fwd IAT Max",
+    "Packet Length Std",
+    "SYN Flag Count",
+    "Average Packet Size",
+    "Avg Fwd Segment Size",
+    "Avg Bwd Segment Size",
+    "Fwd Header Length.1",
+    "Subflow Fwd Packets",
+    "Subflow Fwd Bytes",
+    "Subflow Bwd Packets",
+    "Subflow Bwd Bytes",
+    "Idle Mean",
+    "Idle Max",
+    "Idle Min"
+  ]
+}

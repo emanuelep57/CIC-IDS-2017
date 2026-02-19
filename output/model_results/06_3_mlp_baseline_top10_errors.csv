@@ -1,0 +1,11 @@
+True_Class,Predicted_Class,Count
+Benign,DoS,369
+DoS,Benign,346
+WebAttack,Benign,299
+Benign,DDoS,259
+Bot,Benign,71
+DDoS,Benign,33
+PortScan,Benign,22
+PortScan,DDoS,19
+Benign,BruteForce,11
+BruteForce,Benign,10

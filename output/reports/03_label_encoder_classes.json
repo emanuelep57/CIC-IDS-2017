@@ -1,0 +1,10 @@
+[
+    "Benign",
+    "Bot",
+    "BruteForce",
+    "DDoS",
+    "DoS",
+    "Other",
+    "PortScan",
+    "WebAttack"
+]

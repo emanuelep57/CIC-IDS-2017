@@ -1,0 +1,21 @@
+Feature,Importance
+Fwd IAT Std,3321
+Flow Duration,2322
+Init_Win_bytes_backward,2307
+Flow IAT Max,2161
+Packet Length Mean,2148
+Init_Win_bytes_forward,2114
+Bwd Packets/s,1991
+ByteRatio,1738
+Fwd Packets/s,1710
+Bwd IAT Std,1671
+PacketRatio,1634
+Flow IAT Mean,1587
+Total Length of Fwd Packets,1565
+Flow IAT Std,1502
+Packet Length Variance,1460
+Fwd Packet Length Mean,1392
+Fwd Packet Length Max,1360
+Bwd Packet Length Max,1261
+Flow Packets/s,973
+Max Packet Length,532

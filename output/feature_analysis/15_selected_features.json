@@ -1,0 +1,24 @@
+{
+  "selected_features": [
+    "Fwd IAT Std",
+    "Flow IAT Max",
+    "Packet Length Mean",
+    "Bwd Packet Length Max",
+    "Packet Length Variance",
+    "Max Packet Length",
+    "Flow Duration",
+    "Init_Win_bytes_backward",
+    "Flow IAT Std",
+    "ByteRatio",
+    "Flow IAT Mean",
+    "Total Length of Fwd Packets",
+    "Bwd Packets/s",
+    "Fwd Packets/s",
+    "Flow Packets/s",
+    "PacketRatio",
+    "Fwd Packet Length Max",
+    "Init_Win_bytes_forward",
+    "Fwd Packet Length Mean",
+    "Bwd IAT Std"
+  ]
+}

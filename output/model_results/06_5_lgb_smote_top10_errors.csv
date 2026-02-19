@@ -1,0 +1,11 @@
+True_Class,Predicted_Class,Count
+Benign,PortScan,16604
+Benign,DDoS,5475
+Benign,Other,5241
+DDoS,Benign,5122
+Benign,BruteForce,4710
+Benign,DoS,4534
+DDoS,BruteForce,4081
+DoS,Benign,3873
+DDoS,DoS,3137
+DoS,BruteForce,1440

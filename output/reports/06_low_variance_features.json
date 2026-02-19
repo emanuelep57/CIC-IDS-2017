@@ -1,0 +1,14 @@
+[
+    "RST Flag Count",
+    "ECE Flag Count",
+    "Fwd Avg Bulk Rate",
+    "Bwd Avg Packets/Bulk",
+    "Bwd PSH Flags",
+    "Bwd Avg Bulk Rate",
+    "Bwd Avg Bytes/Bulk",
+    "Fwd URG Flags",
+    "CWE Flag Count",
+    "Bwd URG Flags",
+    "Fwd Avg Packets/Bulk",
+    "Fwd Avg Bytes/Bulk"
+]
